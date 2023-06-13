@@ -1,3 +1,6 @@
+# Written while drunk
+
+
 inp = input()
 
 inp = inp.split(";")
